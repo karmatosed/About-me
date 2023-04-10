@@ -1,7 +1,3 @@
-## BuddyPress
-Worked as theme creator and wrote book on theme development.
-Contributed for many years to project.
-
 ## WordPress
 
 #### Core committer for many years (Guest committer since 4.4)
@@ -26,7 +22,7 @@ Part of several default theme teams including leading development of Twenty Sixt
 Maintainer and team member.
 Worked on automation of project.
 
-## Achievements
+## Notes
 * Full time contributor for over 5 years.
 * Outside of core, within XWP established learning program for developers on Gutenberg and the changes: blocks, themes.
 * Worked and wrote a lot on patterns and the changing shape of themes, including theme.json.
@@ -46,3 +42,7 @@ Worked on automation of project.
 
 ### Currently working on
 * Writing book on WordPress styling and the new state.
+
+## BuddyPress
+Worked as theme creator and wrote book on theme development.
+Contributed for many years to project.
