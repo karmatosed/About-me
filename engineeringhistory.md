@@ -1,11 +1,10 @@
 # Skills
 
-## Skills
+## Relevant skills
 * WordPress: theme dev: block-based, classic (_s), basic block creation.
 * Front end: CSS, HTML.
 * JSON: specifically in context of WordPress (block/theme), but understand concepts.
-* MySql.
-* Studied Software Engineering: specifically C/Java (long time ago before WordPress work).
+* Studied Software Engineering: specifically Databases/C/Java (long time ago before WordPress work).
 
 ### Currently learning
 * JavaScript: basic knowledge extending.
