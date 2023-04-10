@@ -17,19 +17,21 @@
 
 # Background
 
-## WordPress
+## WordPress (all team work)
 
 #### Core committer for many years (Guest committer since 4.4)
 
 #### Design team
-Rep for many years and established multiple practices across the project.
+Rep for many years and established multiple practices across the project across disciplines.
+Design system work.
 
 #### Core team
 Part of multiple releases for project.
 Triage: established a practice of triage for editor and ran this for many years.
 
 #### Gutenberg editor
-Design co-lead for first phase up until release 5.0
+Design co-lead for first phase up until release 5.0.
+Contributed to the codebase not just with design.
 
 #### Theme team
 Theme review team member.
