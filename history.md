@@ -68,7 +68,7 @@ Worked on automation of project.
 * [A journey into _s](https://speakerdeck.com/tammielis/journey-into-underscores)
 
 ### Currently working on
-* Writing book on WordPress styling and the new state.
+* Writing book on WordPress styling: blocks, patterns, templates, themes.
 
 ## BuddyPress
 Worked as theme creator and wrote book on theme development.
