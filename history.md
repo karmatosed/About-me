@@ -4,7 +4,8 @@
 * WordPress: theme dev: block-based, classic (_s), basic block creation.
 * Front end: CSS, HTML.
 * JSON: specifically in context of WordPress (block/theme), but understand concepts.
-* Studied Software Engineering: specifically Databases/C/Java (long time ago before WordPress work).
+* Git (GitHub and GitLab experience).
+* Passion for design systems.
 
 ### Currently learning
 * JavaScript: basic knowledge extending.
@@ -12,6 +13,11 @@
 * Python (AI).
 * Updating CSS skillset.
 * WordPress interface extending: going beyond just blocks.
+
+#### Historical experience
+* SVN.
+* Documentation background.
+* Studied Software Engineering: specifically Databases/C/Java (long time ago before WordPress work).
 
 ---------
 
