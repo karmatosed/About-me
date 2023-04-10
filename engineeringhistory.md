@@ -1,3 +1,23 @@
+# Skills
+
+## Skills
+* WordPress: theme dev: block-based, classic (_s), basic block creation.
+* Front end: CSS, HTML.
+* JSON: specifically in context of WordPress (block/theme), but understand concepts.
+* MySql.
+* Degree in Software Engineering: specifically around C/Java (long time ago).
+
+### Currently learning
+* JavaScript: basic knowledge extending.
+* React: WordPress based through editor known and extending knowledge.
+* Python (AI).
+* Updating CSS skillset.
+* WordPress interface extending: going beyond just blocks.
+
+---------
+
+# Background
+
 ## WordPress
 
 #### Core committer for many years (Guest committer since 4.4)
