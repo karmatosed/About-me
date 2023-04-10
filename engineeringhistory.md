@@ -5,7 +5,7 @@
 * Front end: CSS, HTML.
 * JSON: specifically in context of WordPress (block/theme), but understand concepts.
 * MySql.
-* Degree in Software Engineering: specifically around C/Java (long time ago).
+* Studied Software Engineering: specifically C/Java (long time ago before WordPress work).
 
 ### Currently learning
 * JavaScript: basic knowledge extending.
