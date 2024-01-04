@@ -65,6 +65,19 @@ Worked on automation of project.
 * Ran and co-ordinated many contribution days across a range of tables.
 * Ran own studio for many years before joining Automattic, primarily creating themes.
 
+## Live examples
+* [Patterninspiration: patterns for block editor](https://speakerdeck.com/tammielis/global-styles-the-story-so-far)
+* [Compositionthemes: block theme foundation]([https://speakerdeck.com/tammielis/global-styles-the-story-so-far](https://compositionthemes.com/))
+* [Tammielister.com: own site using block theme foundation]([https://speakerdeck.com/tammielis/global-styles-the-story-so-far](https://tammielister.com/))
+* [Nownextlab: older block theme](https://nownextlab.com/)
+
+### Some themes made at Automattic
+* [Coherent](https://en-gb.wordpress.org/themes/coherent/)
+* [Adaption](https://en-gb.wordpress.org/themes/adaption/)
+* [Tonal](https://en-gb.wordpress.org/themes/tonal/)
+* [Cols](https://en-gb.wordpress.org/themes/cols/)
+* [Sapor](https://en-gb.wordpress.org/themes/sapor/)
+
 #### Talks relevant
 * [Global styles, the story so far](https://speakerdeck.com/tammielis/global-styles-the-story-so-far)
 * [Thinking in pattterns](https://speakerdeck.com/tammielis/thinking-in-patterns)
