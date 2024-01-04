@@ -67,8 +67,8 @@ Worked on automation of project.
 
 ## Live examples
 * [Patterninspiration: patterns for block editor](https://speakerdeck.com/tammielis/global-styles-the-story-so-far)
-* [Compositionthemes: block theme foundation]([https://speakerdeck.com/tammielis/global-styles-the-story-so-far](https://compositionthemes.com/))
-* [Tammielister.com: own site using block theme foundation]([https://speakerdeck.com/tammielis/global-styles-the-story-so-far](https://tammielister.com/))
+* [Compositionthemes: block theme foundation](https://compositionthemes.com/)
+* [Tammielister.com: own site using block theme foundation](https://tammielister.com/)
 * [Nownextlab: older block theme](https://nownextlab.com/)
 
 ### Some themes made at Automattic
