@@ -4,7 +4,7 @@
 
 ## Relevant skills
 * WordPress: theme dev: block-based, classic (_s), basic block creation.
-* Front end: CSS, HTML, SASS, basic JavsScript, basic React.
+* Front end: CSS, HTML, Sass, basic JavsScript, basic React.
 * JSON: specifically in the context of WordPress (block/theme), but understand concepts.
 * Git (GitHub and GitLab experience).
 * Passion for design systems.
